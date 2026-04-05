@@ -12,7 +12,7 @@
  -
  CSS, HTML5, JavaScript.
 
- Screen Shots:
+ Screenshots:
  -
  <img width="1737" height="776" alt="image" src="https://github.com/user-attachments/assets/563c92f1-cd9b-4376-9edc-b8f062ff6306" />
  <img width="1625" height="911" alt="image" src="https://github.com/user-attachments/assets/3a7d73cc-dc0c-4274-9903-c17fc99ca0e0" />
