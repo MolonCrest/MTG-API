@@ -10,9 +10,7 @@
 
  Languages Used:
  -
- CSS
- HTML5
- JavaScript
+ CSS, HTML5, JavaScript.
 
  Screen Shots:
  -
